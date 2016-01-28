@@ -1,6 +1,6 @@
 package validInputCode;
 
-import java.io. *;
+import java.io.*;
 
 public class Input {
    public String getUserInput(String prompt){
