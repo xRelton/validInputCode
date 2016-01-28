@@ -15,5 +15,6 @@ public class Input {
              System.out.println("IOException: " + e);
          }
      return inputLine;
-    }  
+    }
+   
 }
